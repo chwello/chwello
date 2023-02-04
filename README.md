@@ -3,7 +3,6 @@ An IT student making a way into software development.
 * 🌍  I'm based in Tagbilaran City, Bohol
 * ✉️  You can contact me at [fretchelm.gerarman@gmail.com](mailto:fretchelm.gerarman@gmail.com)
 * 🧠  I'm learning C and I’m looking for help with learning more about javascript, html, and css
-* 🤝  I'm open to collaborating on projects that relates software and web development.
 
 ### Skills
 
