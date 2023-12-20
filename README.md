@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Fretchel Gerarman, a passionate Information Technology student with a love for designing and coding. I specialize in front-end development, and I'm always eager to dive into new technologies and challenges.<br><br>🤝 I’m looking for help with web development.<br>🌱 I’m currently learning<br>- Advanced CSS techniques and REACT JS.<br><br>Feel free to connect and let's build something amazing together! 🚀
+Hello there! 👋 I'm Fretchel Gerarman, a passionate Information Technology student with a love for designing and coding. I specialize in front-end development, and I'm always eager to dive into new technologies and challenges.<br><br>🤝 I’m looking for help with web development.<br>🌱 I’m currently learning<br>- Advanced CSS techniques and REACT JS.<br>-UI/UX<br><br>Feel free to connect and let's build something amazing together! 🚀
 
 
 ## 🌐 Socials:
